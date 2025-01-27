@@ -5,7 +5,11 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "dev": "nodemon src/index.js"
+=======
+     "dev": "nodemon src/index.js"
+>>>>>>> 252540f99b2a862f9cc2d9027bc1e8bcb11c0ff3
   },
   "author": "Nitin Pandey",
   "license": "ISC",
